@@ -5,3 +5,5 @@ The purpose of this circuit is to showcase the ability of solving more practical
 Described in paper "Developing Mathematical Oracle Functions for Grover Quantum Search Algorithm": https://arxiv.org/abs/2109.05921
 
 The circuit was built in "Quirk" quantum simulator by Craig Gidney https://algassert.com/
+
+To open the circuit - download file "Grover Search Math Oracle.html" and open it with a web browser
